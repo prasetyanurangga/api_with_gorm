@@ -1,0 +1,15 @@
+{
+    "server"    :{
+        "port":9000,
+        "portTls":443
+    }, 
+
+    "database"  :{
+        "host"      : "localhost",
+        "port"      : 3308,
+        "user"      : "root",
+        "pass"      : "",
+        "dbname"    : "data_dummy"
+    }
+    
+}
